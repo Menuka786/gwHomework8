@@ -10,18 +10,21 @@ class Employee {
     getName() {
         return this.name;
     }
+    getId() {
+
+        return this.id;
+    }
+    getEmail() {
+
+        return this.email;
+    }
 
     getRole() {
-        return 'Employee'
+        return 'Employee';
     }
 }
 
-// const bob = new Employee("bob", 5, "bob@company.net");
-// const ann = new Employee("ann", 7, "ann@company.net");
 
-//bob.getName(); // --> return "bob"
-// bob.getRole(); // --> return 'Employee'
-//ann.getName(); // return 'ann';
-
-// REMEMBER we have to make this CLASS avaiable outside of this file!!
 // EXPORT THIS CLASS
+
+module.exports = Employee ;
