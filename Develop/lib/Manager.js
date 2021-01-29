@@ -3,9 +3,9 @@ const Employee = require("./Employee");
 // BRING IN A REFERENCE TO THE EMPLOYEE CLASS
 
 class Manager extends Employee {
-    constructor(name, id, email, officenumber) {
+    constructor(name, id, email, officeNumber) {
         super(name, id, email);
-        this.officeNumber = officenumber;
+        this.officeNumber = officeNumber;
     }
 
     getRole() {
@@ -13,7 +13,7 @@ class Manager extends Employee {
     }
     getOfficeNumber(){
 
-        return this.officenumber;
+        return this.officeNumber;
     }
 }
 
