@@ -14,8 +14,7 @@ How to Ust the App
 5. To run your test, open in test in Terminal, input npm run test on your terminal.
 6. You can see test results will be shown on Terminal.
 
-Video for this app :![video](HomeworkVideo.mov)g
-)
+Video for this app :![video](HomeworkVideo.mov)
 
 Screen shot of html page
 
