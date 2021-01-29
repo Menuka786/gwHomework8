@@ -14,12 +14,12 @@ How to Ust the App
 5. To run your test, open in test in Terminal, input npm run test on your terminal.
 6. You can see test results will be shown on Terminal.
 
-Video link for this app :
-https://drive.google.com/file/d/1bCu-pE9z6IXxB4J3tNkX6n7bgF_pRNyN/view?usp=sharing
+Video link for this app :![video](
+https://drive.google.com/file/d/1bCu-pE9z6IXxB4J3tNkX6n7bgF_pRNyN/view?usp=sharing)
 
 Screen shot of html page
 
-!homework.png
+![screenshot](homework.png)
 
 
 
